@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Deekshith06/deekshith06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><code>deekshith06@github ~ $ ./contributions.sh</code></h3>
 
-Here are some ideas to get you started:
+<img src="./contrib-heatmap.svg" width="860" alt="Deekshith06 GitHub public contribution graph, refreshed daily" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<h3><code>deekshith06@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./deekshith-ascii.png" width="400" alt="ASCII portrait of Deekshith" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Deekshith profile: B.Tech Computer Science and Engineering student at Lovely Professional University, graduating in 2027" /></td>
+</tr>
+</table>
+
+<br><br>
+
+<h3><code>deekshith06@github ~ $ ./about.sh</code></h3>
+
+<p><b>Full-Stack Developer · AI/ML Builder · B.Tech CSE Student</b></p>
+<p>B.Tech in Computer Science and Engineering at Lovely Professional University · Expected graduation: 2027</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Deekshith06-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deekshith06)
+[![Repositories](https://img.shields.io/badge/Explore-Projects-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deekshith06?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Live-Portfolio-22d3ee?style=for-the-badge&logo=githubpages&logoColor=111827)](https://deekshith06.github.io/)
+
+</div>
