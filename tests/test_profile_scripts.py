@@ -79,12 +79,15 @@ class ProfileCardTests(unittest.TestCase):
 
 
 class PortraitAssetTests(unittest.TestCase):
-    def test_readme_uses_updated_recognizable_portrait(self):
+    def test_readme_uses_clear_animated_portrait(self):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
-        portrait = ROOT / "deekshith-ascii.png"
-        self.assertTrue(portrait.exists())
-        self.assertGreater(portrait.stat().st_size, 100_000)
-        self.assertIn("./deekshith-ascii.png", readme)
+        static_portrait = ROOT / "deekshith-ascii.png"
+        animated_portrait = ROOT / "deekshith-ascii-animated.gif"
+        self.assertTrue(static_portrait.exists())
+        self.assertTrue(animated_portrait.exists())
+        self.assertGreater(static_portrait.stat().st_size, 100_000)
+        self.assertGreater(animated_portrait.stat().st_size, 1_000_000)
+        self.assertIn("./deekshith-ascii-animated.gif", readme)
         self.assertNotIn("./deekshith-ascii.svg", readme)
 
 

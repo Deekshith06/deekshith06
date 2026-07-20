@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./deekshith-ascii.png" width="400" alt="ASCII portrait of Deekshith" /></td>
+<td valign="top"><img src="./deekshith-ascii-animated.gif" width="400" alt="Animated ASCII portrait of Deekshith rendering line by line" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Deekshith profile: B.Tech Computer Science and Engineering student at Lovely Professional University, graduating in 2027" /></td>
 </tr>
 </table>
