@@ -17,7 +17,7 @@
 
 <br><br>
 
-<h3><code>deekshith06@github ~ $ ./about.sh</code></h3>
+
 
 <p><b>AI/ML Engineer · Full-Stack Developer · B.Tech CSE Student</b></p>
 <p>I use AI to build fully working, production-focused websites and intelligent applications.</p>
